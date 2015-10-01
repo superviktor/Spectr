@@ -1,0 +1,21 @@
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Spectr\Spectr\bin\Debug\Spectr.exe.config
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Spectr\Spectr\bin\Debug\Spectr.exe
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Spectr\Spectr\bin\Debug\Spectr.pdb
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Spectr\Spectr\obj\Debug\Spectr.csprojResolveAssemblyReference.cache
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Spectr\Spectr\obj\Debug\Spectr.exe
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Spectr\Spectr\obj\Debug\Spectr.pdb
+C:\Users\Viktor\Downloads\Projects\Spectr\Spectr\bin\Debug\Spectr.exe.config
+C:\Users\Viktor\Downloads\Projects\Spectr\Spectr\obj\Debug\Spectr.exe
+C:\Users\Viktor\Downloads\Projects\Spectr\Spectr\obj\Debug\Spectr.pdb
+C:\Users\Viktor\Downloads\Projects\Spectr\Spectr\bin\Debug\Spectr.exe
+C:\Users\Viktor\Downloads\Projects\Spectr\Spectr\bin\Debug\Spectr.pdb
+C:\Users\Viktor\Downloads\Projects\Spectr\Spectr\obj\Debug\Spectr.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Desktop\DorogoyLab1WithUpdated\Spectr\Spectr\bin\Debug\Spectr.exe.config
+C:\Users\Viktor\Desktop\DorogoyLab1WithUpdated\Spectr\Spectr\obj\Debug\Spectr.exe
+C:\Users\Viktor\Desktop\DorogoyLab1WithUpdated\Spectr\Spectr\obj\Debug\Spectr.pdb
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\Spectr\bin\Debug\Spectr.exe.config
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\Spectr\obj\Debug\Spectr.exe
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\Spectr\obj\Debug\Spectr.pdb
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\Spectr\bin\Debug\Spectr.exe
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\Spectr\bin\Debug\Spectr.pdb
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\Spectr\obj\Debug\Spectr.csprojResolveAssemblyReference.cache

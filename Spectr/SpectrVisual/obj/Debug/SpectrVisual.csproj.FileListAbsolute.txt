@@ -1,0 +1,15 @@
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\SpectrVisual\bin\Debug\SpectrVisual.exe.config
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\SpectrVisual\bin\Debug\SpectrVisual.exe
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\SpectrVisual\bin\Debug\SpectrVisual.pdb
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\SpectrVisual\bin\Debug\Spectr.exe
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\SpectrVisual\bin\Debug\Spectr.pdb
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\SpectrVisual\obj\Debug\SpectrVisual.csprojResolveAssemblyReference.cache
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\SpectrVisual\obj\Debug\MainWindow.baml
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\SpectrVisual\obj\Debug\MainWindow.g.cs
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\SpectrVisual\obj\Debug\App.g.cs
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\SpectrVisual\obj\Debug\SpectrVisual_MarkupCompile.cache
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\SpectrVisual\obj\Debug\SpectrVisual.g.resources
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\SpectrVisual\obj\Debug\SpectrVisual.Properties.Resources.resources
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\SpectrVisual\obj\Debug\SpectrVisual.csproj.GenerateResource.Cache
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\SpectrVisual\obj\Debug\SpectrVisual.exe
+C:\Users\HOUSE\Dropbox\Labs\DorogoyLab1WithUpdated\Spectr\SpectrVisual\obj\Debug\SpectrVisual.pdb
